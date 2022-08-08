@@ -1,0 +1,1 @@
+docker build -t virtuex/stock-monitor:v-1.0 .
